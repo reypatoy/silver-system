@@ -1,3 +1,5 @@
 db.sqlite3
 vet_project/settings.py
 *.cfg
+media
+*.vscode
