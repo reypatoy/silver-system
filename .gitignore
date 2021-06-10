@@ -3,3 +3,6 @@ vet_project/settings.py
 *.cfg
 media
 *.vscode
+static/css
+static/fonts
+static/img
